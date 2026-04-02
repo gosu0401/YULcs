@@ -1,0 +1,7 @@
+D:\코딩\TestProj\TestProj\bin\Debug\TestProj.exe.config
+D:\코딩\TestProj\TestProj\bin\Debug\TestProj.exe
+D:\코딩\TestProj\TestProj\bin\Debug\TestProj.pdb
+D:\코딩\TestProj\TestProj\obj\Debug\TestProj.csproj.AssemblyReference.cache
+D:\코딩\TestProj\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+D:\코딩\TestProj\TestProj\obj\Debug\TestProj.exe
+D:\코딩\TestProj\TestProj\obj\Debug\TestProj.pdb
